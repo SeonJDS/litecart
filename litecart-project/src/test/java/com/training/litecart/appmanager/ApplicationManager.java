@@ -1,4 +1,4 @@
-package com.training.litecart;
+package com.training.litecart.appmanager;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

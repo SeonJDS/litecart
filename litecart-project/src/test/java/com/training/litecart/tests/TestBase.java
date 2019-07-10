@@ -1,6 +1,7 @@
-package com.training.litecart;
+package com.training.litecart.tests;
 
 
+import com.training.litecart.appmanager.ApplicationManager;
 import org.openqa.selenium.remote.BrowserType;
 
 import org.testng.annotations.AfterSuite;
