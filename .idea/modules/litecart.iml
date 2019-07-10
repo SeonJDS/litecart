@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="litecart" external.linked.project.path="$MODULE_DIR$/../../litecart-project" external.root.project.path="$MODULE_DIR$/../../litecart-project" external.system.id="GRADLE" external.system.module.group="com.training.litecart" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../litecart-project" rootProjectPath="$MODULE_DIR$/../../litecart-project" />
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../litecart-project" />
+    <content url="file://$MODULE_DIR$/../../litecart-project">
+      <excludeFolder url="file://$MODULE_DIR$/../../litecart-project/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../litecart-project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../litecart-project/out" />
+    </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

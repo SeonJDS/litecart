@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.test.iml" />
     </modules>
   </component>
 </project>
